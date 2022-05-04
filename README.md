@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<br>
+
 <!--
 **azizovrafael/azizovrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
