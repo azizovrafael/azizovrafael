@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </p><br>
 
   ### Developer(me) Sites and Applications
-- [Applicaiton](https://www.example.com/site1](https://play.google.com/store/apps/details?id=com.sakuraz.wingz&hl=az)) - WingZ On Demand.
+- [Applicaiton](https://play-google-com.translate.goog/store/apps/details?id=com.sakuraz.wingz&hl=az&_x_tr_sl=az&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) - WingZ On Demand.
 - [Site](https://birainy.com/) - BIRainy.
 - [Site](http://birdil.az/) - Birdil.
 - [Site](http://alliance.net/) - Alliance Logistics.
