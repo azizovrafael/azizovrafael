@@ -79,4 +79,6 @@ Here are some ideas to get you started:
 - [Site](http://Rosetour.az/) - RoseTour.
 - [Site](http://jobfier.com/) - Jobfier.
 - [Site](https://game.birainy.com) - BIRainy Game.
+- [Telegram Bot](https://t.me/adra_telegram_bot) - ADRA Telegram.
+- [Site](http://maeasyinvest.com/) - My Easy Invesment.
 
