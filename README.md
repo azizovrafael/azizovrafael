@@ -65,3 +65,18 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p><br>
+
+  ### Developer(me) Sites and Applications
+- [Applicaiton](https://www.example.com/site1](https://play.google.com/store/apps/details?id=com.sakuraz.wingz&hl=az)) - WingZ On Demand.
+- [Site](https://birainy.com/) - BIRainy.
+- [Site](http://birdil.az/) - Birdil.
+- [Site](http://alliance.net/) - Alliance Logistics.
+- [Site](http://roborek.com) - RoboRek.
+- [Site](http://technovateinvestments.com) - Technovate Investments.
+- [Site](http://technovate-sabah-angels.com/) - Technovate Sabah Angels.
+- [Site](http://wingz.az) - WingZ.
+- [Site](http://azizovrafael.com/) - My Portfilio Site.
+- [Site](http://Rosetour.az/) - RoseTour.
+- [Site](http://jobfier.com/) - Jobfier.
+- [Site](https://game.birainy.com) - BIRainy Game.
+
