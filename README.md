@@ -81,4 +81,6 @@ Here are some ideas to get you started:
 - [Site](https://game.birainy.com) - BIRainy Game.
 - [Telegram Bot](https://t.me/adra_telegram_bot) - ADRA Telegram.
 - [Site](http://maeasyinvest.com/) - My Easy Invesment.
+- [Site](https://100.yelload.az/) - Heydar Aliyev's 100th anniversary.
+- [Site](http://azizovrafael.com/) - Portfolio site.
 
