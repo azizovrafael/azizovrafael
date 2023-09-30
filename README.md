@@ -84,4 +84,7 @@ Here are some ideas to get you started:
 - [Site](https://100.yelload.az/) - Heydar Aliyev's 100th anniversary.
 - [Site](http://azizovrafael.com/) - Portfolio site.  
 - [Site](http://exclusive-trip.com/) - Exclusive-Trip tourism site.
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azeriqaz Android OCR SDK.
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azercosmos File system with OCR (Aze and Eng langs).
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Inam Medical ERP system.
 
